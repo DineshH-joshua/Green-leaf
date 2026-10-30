@@ -1,0 +1,1499 @@
+ul{
+        list-style-type: none;
+        padding: 15px;
+        background-color: #4bb85d;
+        margin-top: -8px;
+        width: 1400px;
+        height: 40px;
+       
+        cursor: pointer;
+        margin-left: -10px;
+        display: flex;
+        border-radius: 10px;
+        border: 1px solid black;
+        text-align: center;
+        font-family: Poppins;
+        font-size: 15px;
+    }
+    ul li a{
+        display: block;
+        color: #eff3ef;
+        padding: 14px 16px;
+        border-radius: 5px;
+        overflow: hidden;
+        
+    }
+
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+        border-radius: 5px;
+    }
+    .nohover{
+        pointer-events: none;
+    }
+    .loginpage{
+        float: right;
+    }
+    .loginlogo{
+        float: right;
+        margin-left: 900px;
+    }
+    form{
+        margin-top: 100px;
+    }
+    ol{
+        list-style-type: none;
+        padding: 15px;
+        background-color: #4bb85d;
+        margin-top: 50px;
+        width: 1350px;
+        height: 180px;
+        margin-right: 100px;
+        cursor: pointer;
+        margin-left: -10px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+    ol li a{
+        display: block;
+        color: #eff3ef;
+        padding: 14px 16px;
+        overflow: hidden;
+    }
+
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    /* .Money{
+        position: relative;
+    }
+    .snake{
+        display: none;
+        position: absolute;
+        background-color: antiquewhite;
+     
+    }
+    .Money:hover .snake{
+        display: block;
+    } */
+     
+
+    .frontimage img{
+        float: right;
+        margin-left: 50px;
+        margin-top:-45px;
+        width: 1420px;
+        height: 400px;
+        border-radius: 10px;
+    }
+    .footerimg img{
+        position: relative;
+        float: left;
+        width: 400px;
+        height: 500px;
+        margin-top: 120px;
+        margin-left: 120px;
+    }
+    .mainhead{
+        position: absolute;
+        font-size: 35px;
+        font-family: Poppins;
+        margin-top: 170px;
+        color: #057005;
+        text-shadow: 2px 5px 10px rgba(113, 255, 100, 0.658);
+        margin-left: 740px;
+        
+    }
+    .footerstyle{
+        position: absolute;
+        width: 500px;
+        height: 320px;
+        margin-top: 250px;
+        margin-left: 620px;
+        text-align: center;
+        box-sizing: border-box;
+        font-family: Poppins;
+        font-size: 16px;
+        border: 1px outset rgba(0, 0, 0, 0.158);
+        background-color: #f6faf6b7;
+        border-radius: 10px;
+        box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.658);
+    }
+    .footerstyle::first-letter{
+        color: #03810e;
+    }
+    .fstyle{
+        font-family: Poppins;
+    }
+    .fstyle::first-letter{
+        color: #359445;
+    }
+    .mainbutton {
+        position: relative;
+        display: block;
+        color: whitesmoke;
+        overflow: hidden;
+        text-align: center;
+        padding: 6px;
+    }
+
+    .mainbutton{
+        position: absolute;
+        width: 140px;
+    background-color: #1B5E20;
+    justify-content: center;
+    margin-top: -20px;
+    margin-left: 10px;
+    padding: 16px 14px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-family: Poppins;
+    box-shadow: 2px 2px 2px rgba(104, 103, 103, 0.829);
+}
+.mainbutton:hover{
+    background-color: #17c723c0;
+
+}
+    button a{
+        text-decoration: none;
+        color: white;
+    }
+    .green::first-letter{
+        color: #4bb85d;
+    }
+    .green{
+        font-family: Poppins;
+        font-size: 20px;
+        text-align: center;
+        }
+    .about1{
+        width: 290px;
+        text-align: center;
+        margin-left: 120px;
+    }
+    .img1{
+        padding: 10px;
+        border: 1px outset rgb(199, 193, 193);
+        border-radius: 20px;
+        font-family: Poppins;
+        font-size: 15px;
+    }
+    .under{
+        padding: 10px;
+        color: black;
+    }
+    .about2{
+        width: 290px;
+        text-align: center;
+        margin-left: 500px;
+        margin-top: -360px;
+    }
+    .img2{
+        padding: 10px;
+        border: 1px outset rgb(211, 208, 208);
+        border-radius: 20px;
+        font-family: monospace;
+        font-size: 20px;
+    }
+    .Under1{
+        padding: 10px;
+        color: black;
+        font-family: Poppins;
+        font-size: 15px;
+    }
+    .about3{
+        width: 290px;
+        text-align: center;
+        margin-left: 890px;
+        margin-top: -360px;
+    }
+    .img3{
+        padding: 10px;
+        border: 1px outset rgb(211, 208, 208);
+        border-radius: 20px;
+    }
+    .Under2{
+        padding: 10px;
+        color: black;
+        font-family: monospace;
+        font-size: 20px;
+        font-family: Poppins;
+        font-size: 15px;
+    }
+    h2{
+        text-align: center;
+    }
+    h2::first-letter{
+        color: #359445;
+    }
+    .hero{
+        width: 200px;
+        text-align: center;
+        margin-left: 200px;
+    }
+    .content{
+        padding: 20px;
+        color: rgb(12, 12, 12);
+        background-color: #02b045;
+        border: 1px inset rgb(12, 11, 11);
+        border-radius: 15px;
+         font-family: Poppins;
+         font-weight: bold;
+         font-size: 25px;
+         text-shadow: 0px 0px 10px rgb(243, 242, 242);
+    }
+    .hero1{
+        width: 200px;
+        text-align: center;
+        margin-top: -140px;
+        margin-left: 560px;
+    }
+    .content1{
+        padding: 20px;
+        color: rgb(12, 12, 12);
+        background-color: #02b045;
+        border: 1px inset rgb(12, 11, 11);
+        border-radius: 15px;
+         font-family: Poppins;
+         font-weight: bold;
+         font-size: 25px;
+         text-shadow: 0px 0px 15px rgb(252, 250, 250);
+    }
+    .hero2{
+        width: 200px;
+        text-align: center;
+        margin-top: -145px;
+        margin-left: 890px;
+    }
+    .content2{
+        padding: 20px;
+        color: rgb(12, 12, 12);
+        background-color: #09c752d8;
+        border: 1px inset rgb(12, 11, 11);
+        border-radius: 15px;
+         font-family: Poppins;
+         font-weight: bold;
+         font-size: 25px;
+         text-shadow: 0px 0px 15px rgb(241, 239, 239);    
+    }
+    input[type=text]{
+        width: 250px;
+        box-sizing: border-box;
+        border: 1px soild black;
+        border-radius: 10px;
+        margin-left: -400px;
+        margin-top: 9px;
+        background-color: white;
+        background-image: url("./magnifying-glass-solid.png");
+        background-size: 30px;
+        background-position: 5px 2px;
+        background-repeat: no-repeat;
+        padding: 10px 35px;
+        font-size: 15px;
+    }
+    .final{
+         float: left;
+        margin-left: -190px;
+        margin-top:-45px;
+        width: 1490px;
+        height: 400px;
+        border-radius: 10px;
+    }
+    .final img{
+        position: relative;
+        float: right;
+        width: 500px;
+        height: 600px;
+        margin-top: 50px;
+     
+    }
+    .heading1{
+        position: absolute;
+        font-size: 25px;
+        font-family: Poppins;
+        margin-top: 210px;
+        color: #057005;
+        text-shadow: 2px 5px 10px rgba(113, 255, 100, 0.658);
+        margin-left: 290px;
+        
+    }
+    .finalcont{
+        position: absolute;
+        width: 500px;
+        height: 250px;
+        margin-top: 290px;
+        margin-left: 250px;
+        text-align: center;
+        box-sizing: border-box;
+        font-family: Poppins;
+        font-size: 16px;
+        border: 1px outset rgba(0, 0, 0, 0.158);
+        background-color: #f6faf6b7;
+        border-radius: 10px;
+        box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.658);
+        }
+        .finalbt{
+            position: relative;
+            width: 200px;
+            height: 60px;
+            margin-top: 580px;
+            margin-left: 300px;
+            background-color: #025808;
+            border: 1px outset black;
+            border-radius: 15px;
+            font-family: Poppins;
+            font-weight: bold;
+            font-size: 18px;
+            z-index: 1;
+
+        }
+        .finalbt a{
+            text-decoration: none;
+            color: white;
+        }
+        /* .finalbt:hover{
+            background-color: #17e73ad5;
+            color: black;
+        } */
+        .nextbt{
+            position: absolute;
+            width: 200px;
+            height: 60px;
+            margin-top: -60px;
+            margin-left: 460px;
+            background-color: #11cf1a;
+            border: 1px outset black;
+            border-radius: 15px;
+            font-family: Poppins;
+            font-weight: bold;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        .nextbt a{
+            text-decoration: none;
+            color: black;
+        }
+        .nextbt:hover{
+            background-color: #17e73aad;
+            color: black;
+        }
+        .centrecont{
+            margin-top: 1300px;
+            font-family: Poppins;
+            font-weight: bold;
+            color: #025808;
+            text-transform: uppercase;
+            margin-left: 20px;
+            font-size: 20px;
+        }
+        .card10{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 2px;
+    }
+    .redleaf{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .footer10{
+        padding: 10px;
+        color: black;
+    }
+    .card10:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+        width: 250px;
+    }
+    .card11{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 300px;
+    }
+    .bonsai{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .footer11{
+        padding: 10px;
+        color: black;
+    }
+    .card11:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+        width: 250px;
+    }
+    .card12{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 580px;
+    }
+    .orange{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .footer12{
+        padding: 10px;
+        color: black;
+    }
+    .card12:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+        width: 250px;
+    }
+    .card13{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 850px;
+    }
+    .Gardenjar{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .footer13{
+        padding: 10px;
+        color: black;
+    }
+    .card13:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+        width: 250px;
+    }
+    .card14{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 1110px;
+    }
+    .Red{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .footer14{
+        padding: 10px;
+        color: black;
+    }
+    .card14:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+        width: 230px;
+    }
+    .Buynow10{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+    }
+    .Buynow10:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow11{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+    }
+    .Buynow11:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow12{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+    }
+    .Buynow12:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow13{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+    }
+    .Buynow13:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow14{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+    }
+    .Buynow14:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }        
+h1{
+    color: #1B5E20;
+    border-style: groove;
+    border-radius: 10px;
+    text-shadow: 5px 5px 10px #1B5E20;
+    text-align: center;
+    margin: 10px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.fstyle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    
+}
+.about1:hover{
+    border: 1px solid black;
+    border-radius: 15px;
+    
+}
+.about2:hover{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.about3:hover{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+--OUR PLANTS--
+ul{
+        list-style-type: none;
+        padding: 15px;
+        background-color: #4bb85d;
+        margin-top: -9px;
+        width: 1400px;
+        margin-right: 100px;
+        cursor: pointer;
+        margin-left: -10px;
+        display: flex;
+        border-radius: 10px;
+        border: 1px solid black;
+        text-align: center;
+        font-family: Poppins;
+        
+    }
+    ul li a{
+        display: block;
+        color: #eff3ef;
+        padding: 14px 16px;
+        overflow: hidden;
+        
+    }
+
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    ol{
+        list-style-type: none;
+        padding: 15px;
+        background-color: #4bb85d;
+        margin-top: 110px;
+        margin-left: -10px;
+        width: 1400px;
+        height: 200px;
+        cursor: pointer;
+        border-radius: 10px;
+        border: 1px solid black;
+        font-family: Poppins;
+    }
+    ol li a{
+        display: block;
+        color: #eff3ef;
+        padding: 14px 16px;
+        overflow: hidden;
+    }
+
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    .card{
+        width: 200px;
+        height: 270px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .shelf{
+        padding: 10px;
+        height: 250px;
+        border: 1px outset rgb(194, 191, 191);
+        border-radius: 5px;
+    }
+
+    .footer{
+        color: black;
+        padding: 10px;
+    }
+    .card a{
+        text-decoration: none;
+        color: white;
+    }
+    .card:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card1{
+        width: 200px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .snakeplant{
+        padding: 10px;
+        border: 1px outset rgb(202, 200, 200);
+        border-radius: 5px;
+    }
+    .card1 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer1{
+        color: black;
+        padding: 10px;
+    }
+    .card1:hover{
+        border: 1px solid black;
+    }
+    .card2{
+        width: 200px;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: -560px;
+    }
+    ._self{
+        padding: 10px;
+        border: 1px outset rgb(189, 186, 186);
+        border-radius: 5px;
+    }
+    .card2 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer2{
+        padding: 10px;
+        color: black;
+    }
+    .card2:hover{
+        border: 1px solid black;
+    }
+    .card3{
+        width: 200px;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: 20px;
+    }
+    .Brof{
+        padding: 10px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 5px;
+    }
+    .card3 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer3{
+        padding: 10px;
+        color: black;
+    }
+    .card3:hover{
+        border: 1px solid black;
+    }
+    .newcard{
+        width: 200px;
+        text-align: center;
+        margin-left: 580px;
+        margin-top: -570px;
+    }
+    .spider{
+        padding: 10px;
+        height: 245px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 15px;
+    }
+    .newcard a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer4{
+        padding: 10px;
+        color: black;
+    }
+    .newcard:hover{
+        border: 1px solid black;
+        border-radius: 15px;
+    }
+    .card5{
+        width: 200px;
+        text-align: center;
+        margin-left: 580px;
+        margin-top: 40px;
+    }
+    .broken{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 5px;
+    }
+    .card5 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer5{
+        padding: 10px;
+        color: black;
+    }
+    .card5:hover{
+        border: 1px solid black;
+    }
+    .card6{
+        width: 200px;
+        height: 270px;
+        text-align: center;
+        margin-left: 850px;
+        margin-top: -570px;
+    }
+    .jade{
+        padding: 10px;
+        height: 250px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card6 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer6{
+        padding: 10px;
+        color: black;
+    }
+    .card6:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card7{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: 30px;
+        margin-left: 850px;
+    }
+    .bamboo{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 5px;
+    }
+    .card7 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer7{
+        padding: 10px;
+        color: black;
+    }
+    .card7:hover{
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+    .card8{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -550px;
+        margin-left: 1100px;
+    }
+    .rubberplant{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card8 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer8{
+        padding: 10px;
+        color: black;
+    }
+    .card8:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card9{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: 30px;
+        margin-left: 1100px;
+    }
+    .lily{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card9 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer9{
+        padding: 10px;
+        color: black;
+    }
+    .card9:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card10{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 2px;
+    }
+    .redleaf{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card10 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer10{
+        padding: 10px;
+        color: black;
+    }
+    .card10:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card11{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 300px;
+    }
+    .bonsai{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card11 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer11{
+        padding: 10px;
+        color: black;
+    }
+    .card11:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card12{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 580px;
+    }
+    .orange{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card12 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer12{
+        padding: 10px;
+        color: black;
+    }
+    .card12:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card13{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 850px;
+    }
+    .Gardenjar{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card13 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer13{
+        padding: 10px;
+        color: black;
+    }
+    .card13:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    .card14{
+        width: 200px;
+        height: 260px;
+        text-align: center;
+        margin-top: -260px;
+        margin-left: 1110px;
+    }
+    .Red{
+        padding: 10px;
+        height: 240px;
+        border: 1px outset rgb(167, 165, 165);
+        border-radius: 10px;
+    }
+    .card14 a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer14{
+        padding: 10px;
+        color: black;
+    }
+    .card14:hover{
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    
+
+    .Buynow{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 15px;
+    }
+    .Buynow:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow1{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 15px;
+    }
+    .Buynow1:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow2{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow2:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow3{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow3:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow4{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow4:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow5{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow5:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow6{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow6:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow7{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow7:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow8{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow8:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow9{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow9:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow10{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow10:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow11{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow11:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow12{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow12:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow13{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow13:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    .Buynow14{
+        text-align: center;
+        padding: 3px 3px;
+        background-color: #05941d;
+        color: white;
+        border-radius: 10px;
+        margin-left: 25px;
+    }
+    .Buynow14:hover{
+        background-color: #b9dfbf;
+        color: black;
+    }
+    ----login page---
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    
+    .container{
+        width: 700px;
+        max-width: 100%;
+        display: flex;
+        margin-left: 200px;
+        overflow: hidden;
+       
+    }
+    .right{
+        padding: 50px;
+        margin-top: 90px;
+        margin-left: 320px;
+        background-color: rgba(245, 245, 245, 0.349);
+        color: #2b7019;
+        border-radius: 10px;
+        box-shadow: 10px 5px 5px rgba(12, 12, 12, 0.527);
+
+    }
+    .right h2{
+        color: #174D32;
+        text-shadow: 10px 5px 5px rgb(129, 126, 126);
+        margin-bottom: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        font-size: 27px;
+        
+    }
+    .right  p{
+        color: #174D32;
+        margin-bottom: 10px;
+        text-align: center;
+
+    }
+    form{
+        margin-top: 20px;
+        border-radius: 5px;
+        padding: 10px 5px;
+    }
+    form label{
+        display: block;
+        color: #686;
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    form > input{
+        width: 250px;
+        padding: 10px;
+        border: 1px outset black;
+        border-radius: 5px;
+        margin-bottom: 8px;
+    }
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    .input{
+        width: 90px;
+        padding: 10px 10px;
+    }
+    .Login{
+        width: 230px;
+        height: 35px;
+        background-color: rgba(11, 117, 7, 0.952);
+        border-radius: 8px;
+        overflow: hidden;
+        
+    }
+    .Login a{
+        text-decoration: none;
+        color: white;
+    }
+    .Login:hover{
+        background-color: rgba(86, 170, 83, 0.952);
+        color: black;
+    }
+    .signup a{
+        display: block;
+        margin-top: 20px;
+        color:#174D32 ;
+    }
+    .Remember{
+        color: #174D32;
+        
+    }
+    ----Sign up---
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    .container{
+        width: 700px;
+        max-width: 100%;
+        display: flex;
+        margin-left: 200px;
+        overflow: hidden;
+       
+    }
+    .right{
+        padding: 50px;
+        margin-top: 90px;
+        margin-left: 320px;
+        background-color: rgba(245, 245, 245, 0.349);
+        color: #2b7019;
+        border-radius: 10px;
+        box-shadow: 10px 5px 5px rgba(12, 12, 12, 0.527);
+
+    }
+    .right h2{
+        color: #174D32;
+        text-shadow: 10px 5px 5px rgb(129, 126, 126);
+        margin-bottom: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        font-size: 27px;
+        
+    }
+    form{
+        margin-top: 20px;
+        border-radius: 5px;
+        padding: 10px 5px;
+    }
+    form label{
+        display: block;
+        color: #686;
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    form > input{
+        width: 250px;
+        padding: 10px;
+        border: 1px outset black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    .input{
+        width: 90px;
+        padding: 10px 10px;
+    }
+    .Login{
+        width: 230px;
+        height: 35px;
+        background-color: rgba(11, 117, 7, 0.952);
+        border-radius: 8px;
+        overflow: hidden;
+        
+    }
+    .Login a{
+        text-decoration: none;
+        color: white;
+    }
+    .Login:hover{
+        background-color: rgba(86, 170, 83, 0.952);
+        color: black;
+    }
+    .signup a{
+        display: block;
+        margin-top: 20px;
+        color:#174D32 ;
+    }
+-----Contact us-----
+ul{
+        list-style-type: none;
+        padding: 15px;
+        background-color: #4bb85d;
+        margin-top: -8px;
+        width: 1400px;
+        margin-right: 100px;
+        cursor: pointer;
+        margin-left: -10px;
+        display: flex;
+        border-radius: 5px;
+        border: 1px solid black;
+        text-align: center;
+        font-family: Poppins;
+    }
+    ul li a{
+        display: block;
+        color: #eff3ef;
+        padding: 14px 16px;
+        overflow: hidden;
+        
+    }
+
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    ol{
+        list-style-type: none;
+        padding: 15px;
+        background-color: #4bb85d;
+        margin-top: 180px;
+        width: 1400px;
+        height: 200px;
+        margin-right: 100px;
+        cursor: pointer;
+        margin-left: -10px;
+        border-radius: 10px;
+        border: 1px solid black;
+        font-family: Poppins;
+    }
+    ol li a{
+        display: block;
+        color: #eff3ef;
+        padding: 14px 16px;
+        overflow: hidden;
+    }
+
+    li a{
+         text-decoration: none;
+
+    }
+    li  :hover {
+        background-color: #b9f0c1;
+        color: rgb(17, 17, 17);
+    }
+    button {
+        display: block;
+        color: whitesmoke;
+        background-color: #4bb85d;
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        overflow: hidden;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    button a{
+        color: rgb(14, 13, 13);
+        text-decoration: none;
+    }
+    button:hover{
+        background-color: #b9f0c1;
+        color: black; 
+    }
+    .left{
+        float: left;
+        width: 50%;
+    }
+    .left img{
+        width: 400px;
+        height: 350px;
+        object-fit: cover;
+        display: block;
+        margin-top: 73px;
+        margin-left: 300px;
+        border-radius: 10px 0px 0px 10px;
+        
+    }
+    .contact1{
+        width: 800px;
+        height: 350px;
+        box-sizing: border-box;
+        padding: 50px;
+        margin-top: 90px;
+        margin-left: 300px;
+        background-color: rgba(245, 245, 245, 0.349);
+        color: #04490c;
+        border-radius: 10px;
+        box-shadow: 10px 5px 5px rgba(12, 12, 12, 0.527);
+    
+    }
+    .maintext{
+        text-align: center;
+        margin-top: -20px;
+    }
+    .mainbox{
+        margin-left: 400px;
+    }
+    input[type=textarea]{
+        width: 200px;
+        height: 40px;
+        border-radius: 15px;
+    }
+    
+    
